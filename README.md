@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Chaitrali23120/Chaitrali23120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Chaitrali23120/Payment_Gateway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
